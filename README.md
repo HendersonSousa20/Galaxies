@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-  Uma homepage para um blog, listando os artigos e destaques, além de exibir outros itens da página como navegação e busca .
+  Esse projeto de página com listagem de galáxias é desenvolvido no nível 03 do Explorer.
 
 - [Acesse o projeto finalizado, online](https://hendersonsousa20.github.io/Galaxies/)
 
